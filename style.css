@@ -318,8 +318,6 @@ body{
 }
 
 .content{
-    
-
     margin: 92px 56px 150px ;
 }
 
@@ -328,15 +326,6 @@ body{
     margin-left: 80px;
     background: url('/assets/img/Group\ \(1\).png') right center  no-repeat;
     min-height: 472px;
-    
-
-}
-
-
-.content1 .content1__text{
-    
-   
-    
 }
 
 .content1 .content1__text h4{
@@ -379,6 +368,7 @@ body{
 .content1 .item__content1 p{
     margin-left: 40px;
     font-size: 17px;
+    margin-bottom: 20px;
     font-weight: 450;
     line-height: 21.5px;
 }
@@ -392,10 +382,7 @@ body{
     padding: 17px 0px;
     border: none;
     border-radius: 4px;
-    background-color: rgba(0, 189, 245, 1);
-    
-    
-    
+    background-color: rgba(0, 189, 245, 1);  
 }
 
 .btn__content button a{
