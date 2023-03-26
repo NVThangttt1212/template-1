@@ -419,7 +419,6 @@ body{
     position: absolute;
     background: url("/assets/img/Group (1).png")right center  no-repeat ;
     
-    
 }
 
 .content2__item--text h4{
@@ -429,12 +428,9 @@ body{
     margin-bottom: 35px;
 }
 
-
-
 .content2__item--text p{
     font-size: 17px;
-    line-height: 32px;
-    
+    line-height: 32px;    
 }
 
 .content2__rectangle{
@@ -663,9 +659,7 @@ body{
 
 .content4{
     position: relative;
-    background: rgba(0, 189, 245, .4);
-    
-    
+    background: rgba(0, 189, 245, .4);    
 }
 
 .content4__list{
@@ -759,6 +753,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+
 .social__footer i{
     font-size: 32px;
     color: #fff;
